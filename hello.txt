@@ -20,6 +20,6 @@ hello Levi! hello git!
 hello Levi! hello git!
 hello Levi! hello git!
 hello Levi! hello git!
-hello Levi! hello git!
+hello Levi! hello git! hot-fix test
 
 hot-fix v1.1
